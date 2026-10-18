@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5c3bce2f98ba09c4062a0c1a",
+  "owner": "vrwkasw",
+  "repo": "page-f581bdb8be7f4ac71a8d5669",
+  "title": "嘿嘿云(HeyCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f581bdb8be7f4ac71a8d5669",
+      "a": "嘿嘿云(HeyCloud)",
+      "b": "",
+      "entity": "嘿嘿云(HeyCloud)",
+      "brand": "嘿嘿云(HeyCloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "54cfc4d54f86869dd871021966532d6ef417c660d6cbb7ba972b32e24dd3cece",
+      "content": {
+        "keyword1": "嘿嘿云(HeyCloud)",
+        "keyword2": "",
+        "primary_entity": "嘿嘿云(HeyCloud)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "嘿嘿云(HeyCloud)提供按月与按年计费的流量套餐，明确设备数量与节点权益。本文档列出基础版、旗舰版与团队版的实际配额、费用及常见问题。",
+          "AI_DESCRIPTION": "嘿嘿云(HeyCloud)提供按月与按年计费的流量套餐，明确设备数量与节点权益。本文档列出基础版、旗舰版与团队版的实际配额、费用及常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#F4F4F8;color:#1A1A22;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Helvetica,Arial,sans-serif;line-height:1.6;font-size:16px}\n:root{--purple:#6D28D9;--purple-light:#8B5CF6;--purple-soft:#EDE9FE;--purple-dark:#4C1D95;--paper:#FDFDFD;--ink:#1A1A22;--ink-soft:#555560;--line:#D1D5DB}\nheader,section{padding:4rem 1.5rem}\n.container{max-width:1100px;margin:0 auto;width:100%}\n.jumps{display:flex;flex-wrap:wrap;gap:0.5rem;margin-bottom:2rem;font-size:0.875rem;list-style:none}\n.jumps a{text-decoration:none;color:var(--purple);border:1px dashed var(--purple);padding:0.375rem 0.875rem;border-radius:4px;transition:background 0.2s}\n.jumps a:hover{background:var(--purple-soft)}\n.lead{font-size:1.125rem;color:var(--ink-soft);margin-bottom:2rem;max-width:60ch}\nh1{font-size:clamp(2rem,5vw,3.5rem);font-weight:800;letter-spacing:-0.02em;margin-bottom:1rem}\nh2{font-size:clamp(1.5rem,3vw,2rem);font-weight:700;letter-spacing:-0.01em;margin-bottom:1.5rem;padding-bottom:0.5rem;border-bottom:2px solid var(--ink)}\nh3{font-size:1.25rem;font-weight:600;margin-bottom:0.75rem}\np{margin-bottom:1rem}\nul{list-style:none;padding-left:0}\nstrong{font-weight:600;color:var(--ink)}\n/* Hero - Dashboard data blocks */\n.dash{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;margin-top:2rem}\n.dash-cell{background:var(--paper);border:1px solid var(--line);padding:1.5rem;display:flex;flex-direction:column;gap:0.5rem;position:relative;overflow:hidden}\n.dash-cell::before{content:\"\";position:absolute;top:0;left:0;width:4px;height:100%;background:var(--purple)}\n.dash-cell.featured::before{background:var(--purple-dark)}\n.dash-label{font-size:0.75rem;text-transform:uppercase;letter-spacing:0.1em;color:var(--ink-soft)}\n.dash-value{font-size:2rem;font-weight:800;color:var(--purple-dark);line-height:1}\n.dash-unit{font-size:0.875rem;color:var(--ink-soft)}\n/* Plan cards - Ticket style */\n.plan{background:var(--paper);border:2px dashed var(--purple);padding:2rem;margin-bottom:2rem;position:relative;display:grid;grid-template-columns:1fr 2fr;gap:2rem}\n.plan::before{content:\"\";position:absolute;top:1rem;right:1rem;width:8px;height:8px;border-radius:50%;background:var(--purple)}\n.plan.featured{border-color:var(--purple-dark);background:var(--purple-soft)}\n.plan-head{display:flex;flex-direction:column;justify-content:space-between}\n.plan-name{font-size:1.5rem;font-weight:700;color:var(--purple-dark)}\n.plan-price{font-size:2.5rem;font-weight:800;line-height:1;margin:1rem 0}\n.plan-annual{font-size:0.875rem;color:var(--ink-soft);border-top:1px dashed var(--ink-soft);padding-top:0.5rem}\n.plan-body ul{display:grid;gap:0.75rem}\n.plan-body li{padding-left:1.5rem;position:relative}\n.plan-body li::before{content:\"✓\";position:absolute;left:0;color:var(--purple);font-weight:700}\n.plan-body li::marker{content:\"\"}\n.badge{display:inline-block;background:var(--purple-dark);color:#fff;font-size:0.75rem;padding:0.25rem 0.5rem;border-radius:2px;margin-bottom:0.5rem;text-transform:uppercase;letter-spacing:0.05em}\n/* Ticket stub */\n.stub{position:absolute;left:-1rem;top:50%;transform:translateY(-50%);width:40px;height:60px;background:var(--ink);color:#fff;display:flex;align-items:center;justify-content:center;font-size:0.75rem;writing-mode:vertical-rl;padding:0.5rem 0}\n/* FAQ - details */\n.faq-item{border-bottom:1px solid var(--line);padding:1rem 0}\n.faq-item summary{font-weight:600;cursor:pointer;padding:0.5rem 0;position:relative;padding-right:2rem}\n.faq-item summary::after{content:\"+\";position:absolute;right:0;top:0.25rem;font-size:1.5rem;color:var(--purple);transition:transform 0.3s}\n.faq-item[open] summary::after{transform:rotate(45deg)}\n.faq-item p{padding-top:0.5rem;color:var(--ink-soft)}\n/* Footer */\nfooter{background:var(--ink);color:#F4F4F8;padding:3rem 1.5rem;margin-top:4rem}\nfooter p{font-size:0.875rem;color:#9CA3AF}\nfooter nav{display:flex;gap:1.5rem;flex-wrap:wrap;margin-bottom:1rem}\nfooter a{color:#F4F4F8;text-decoration:none;font-size:0.875rem}\nfooter a:hover{text-decoration:underline}\nfooter .container{display:flex;flex-direction:column;align-items:flex-start}\n@media(max-width:768px){\n.plan{grid-template-columns:1fr}\n.stub{display:none}\n}\n</style><main>\n<header>\n<div class=\"container\">\n<h1>嘿嘿云(HeyCloud)</h1>\n<p class=\"lead\">按流量与设备数计费，按月或按年续费。以下为本站当前公开的配额清单与费用明细，不含节点测试承诺，不提供试用，不支持无理由退款。</p>\n<ul class=\"jumps\">\n<li><a href=\"#plans\">查看套餐</a></li>\n<li><a href=\"#usage\">使用说明</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n<div class=\"dash\">\n<div class=\"dash-cell\">\n<span class=\"dash-label\">基础版 / 月费</span>\n<span class=\"dash-value\">¥15</span>\n<span class=\"dash-unit\">100GB / 3台设备</span>\n</div>\n<div class=\"dash-cell featured\">\n<span class=\"dash-label\">旗舰版 / 月费</span>\n<span class=\"dash-value\">¥35</span>\n<span class=\"dash-unit\">300GB / 5台设备</span>\n</div>\n<div class=\"dash-cell\">\n<span class=\"dash-label\">团队版 / 月费</span>\n<span class=\"dash-value\">¥85</span>\n<span class=\"dash-unit\">1000GB / 20台设备</span>\n</div>\n<div class=\"dash-cell\">\n<span class=\"dash-label\">按年付费</span>\n<span class=\"dash-value\">10×</span>\n<span class=\"dash-unit\">等于购买10个月，送2个月</span>\n</div>\n<div class=\"dash-cell\">\n<span class=\"dash-label\">支持平台</span>\n<span class=\"dash-value\">通用</span>\n<span class=\"dash-unit\">需自备客户端</span>\n</div>\n</div>\n</div>\n</header>\n\n<section id=\"plans\">\n<div class=\"container\">\n<h2>套餐明细</h2>\n<p>以下套餐按月或按年订阅，到期自动断开。流量为每月重置的总量，不结转。设备数指同时在线上限，超过将顶替最早连接的设备。</p>\n\n<article class=\"plan\">\n<div class=\"stub\">基础</div>\n<div class=\"plan-head\">\n<div>\n<span class=\"badge\">入门</span>\n<h3 class=\"plan-name\">基础版</h3>\n</div>\n<div>\n<div class=\"plan-price\">¥15<span>/月</span></div>\n<div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n</div>\n</div>\n<div class=\"plan-body\">\n<ul>\n<li>每月 <strong>100GB</strong> 极速流量</li>\n<li>支持 <strong>3 台</strong>设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n</article>\n\n<article class=\"plan featured\">\n<div class=\"stub\">旗舰</div>\n<div class=\"plan-head\">\n<div>\n<span class=\"badge\">推荐</span>\n<h3 class=\"plan-name\">旗舰版</h3>\n</div>\n<div>\n<div class=\"plan-price\">¥35<span>/月</span></div>\n<div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n</div>\n</div>\n<div class=\"plan-body\">\n<ul>\n<li>每月 <strong>300GB</strong> 极速流量</li>\n<li>支持 <strong>5 台</strong>设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n</article>\n\n<article class=\"plan\">\n<div class=\"stub\">团队</div>\n<div class=\"plan-head\">\n<div>\n<span class=\"badge\">多人</span>\n<h3 class=\"plan-name\">团队版</h3>\n</div>\n<div>\n<div class=\"plan-price\">¥85<span>/月</span></div>\n<div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n</div>\n</div>\n<div class=\"plan-body\">\n<ul>\n<li>每月 <strong>1000GB</strong> 极速流量</li>\n<li>支持 <strong>20 台</strong>设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</article>\n</div>\n</section>\n\n<section id=\"usage\">\n<div class=\"container\">\n<h2>使用说明</h2>\n<div>\n<h3>客户端与配置</h3>\n<p>本站不提供独立客户端，请使用通用代理软件连接。订阅地址在购买后于用户中心获取，支持常见协议导入。如遇客户端兼容问题，请先自行排查软件版本。</p>\n<h3>流量重置与续费</h3>\n<p>每月购买日对应日期重置流量额度。若额度提前用尽，连接将被限速至不可用，需等待下月重置或升级套餐。年付套餐同样按月重置，不一次性发放全年流量。</p>\n<h3>设备切换</h3>\n<p>套餐内设备数为同时在线上限。切换设备时，如已达上限，新设备连接会顶替最早登录的设备，无需手动退出。如需频繁切换，请考虑升级至更高配额。</p>\n</div>\n</div>\n</section>\n\n<section id=\"faq\">\n<div class=\"container\">\n<h2>常见问题</h2>\n<details class=\"faq-item\">\n<summary>流量用完后会怎样？</summary>\n<p>流量用完后，连接将被限速至不可用状态，直到下个计费周期重置。不会产生额外扣费，也不会自动升级套餐。如需继续使用，请等待重置或在用户中心升级套餐。</p>\n</details>\n<details class=\"faq-item\">\n<summary>年付套餐是一次性给全年流量吗？</summary>\n<p>不是。年付套餐按月重置流量，与月付套餐的重置规则一致。年付的优势在于总价较低，相当于支付10个月费用获得12个月使用权，但流量仍按月发放。</p>\n</details>\n<details class=\"faq-item\">\n<summary>支持哪些设备和客户端？</summary>\n<p>支持主流操作系统及常见代理客户端。本站不提供独立客户端App，请用户自行准备兼容软件。订阅链接支持通用协议导入，具体兼容性以用户所用软件为准。</p>\n</details>\n<details class=\"faq-item\">\n<summary>套餐之间可以随时切换吗？</summary>\n<p>可以升级，暂不支持降级。升级时按剩余周期补差价。降级需在当前周期结束后联系客服处理。如遇特殊情况，以工单回复为准。</p>\n</details>\n<details class=\"faq-item\">\n<summary>团队版的20台设备是指独立账号吗？</summary>\n<p>不是。团队版为单一账号下的同时在线设备数上限，所有设备共享同一订阅链接与流量池。如需独立账号管理，请联系客服咨询企业定制方案。</p>\n</details>\n<details class=\"faq-item\">\n<summary>可以试用或退款吗？</summary>\n<p>本站不提供试用，也不支持无理由退款。购买前请确认套餐内容符合需求。因节点封锁或运营商限制导致的不可用，可提交工单协助排查，但不作为退款理由。</p>\n</details>\n</div>\n</section>\n</main>\n\n<footer>\n<div class=\"container\">\n<nav>\n<a href=\"#plans\">套餐</a>\n<a href=\"#usage\">使用说明</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n<p>嘿嘿云(HeyCloud) · 本页面内容为套餐说明文档，不构成服务承诺。实际可用性以用户中心订阅状态为准。</p>\n</div>\n</footer>",
+          "hash": "b4b41812cf318c0d60722177c0e542c8a84f2f672821245a263518eb051cb5e9",
+          "seo": {
+            "title": "嘿嘿云(HeyCloud) - 流量与设备配额清单",
+            "keywords": "嘿嘿云,HeyCloud,流量套餐,设备配额,套餐价格,使用说明,常见问题",
+            "description": "嘿嘿云(HeyCloud)提供按月与按年计费的流量套餐，明确设备数量与节点权益。本文档列出基础版、旗舰版与团队版的实际配额、费用及常见问题。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "9443",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uuoto.cn",
+    "host": "p-ac9e6c9d70.uuoto.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4d59860d65ec207a29f457b8b9323f4f1502b4598c998573043ab17543346632",
+    "sitemap.xml": "8b31515c2962348d4c3475a54ba21422a02505f6d0f5817a3fa305394d214862",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "00c79256133dcdfe54827938bc77357a2d635d6a8b2ef41f0207d7509966bf72",
+    "robots.txt": "9b1f2db34bdf65ef9d29b1a56da51fdf8c2dbf02e6dc02f80e4e081daef91cd4",
+    "e7f7d5808d3ed62f5b340e1b76d1ab9b.txt": "9b1b9d97e74804e0497118a6c8618a95cef12fa3efc1c9567a4cb5dc13e28000"
+  },
+  "revision": "ba5e9d60f14301c6fc1c677f820ae2dfe231924619f2ee101d4f4a9e1a1467f7"
+}
